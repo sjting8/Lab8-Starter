@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+[lab 8](https://sjting8.github.io/Lab8-Starter)_
+
 Sean Ting
 
 How are graceful degradation and service workers related?
