@@ -1,6 +1,6 @@
 # Lab8-Starter
 
-[lab 8](https://sjting8.github.io/Lab8-Starter)_
+[lab 8](https://sjting8.github.io/Lab8-Starter/)_
 
 Sean Ting
 
